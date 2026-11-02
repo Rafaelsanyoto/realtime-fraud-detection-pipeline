@@ -1,0 +1,9 @@
+confluent-kafka
+psycopg2-binary
+pyspark==4.2.0
+streamlit
+streamlit-autorefresh
+pandas
+numpy
+plotly
+python-dotenv

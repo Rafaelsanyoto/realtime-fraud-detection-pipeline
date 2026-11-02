@@ -1,0 +1,16 @@
+cat > .gitignore <<'EOF'
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+checkpoints/
+models/
+*.log
+.DS_Store
+bs140513_032310.csv
+EOF
+*.swp
+*.swo
+.*.sw?
